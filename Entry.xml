@@ -1,5 +1,5 @@
 <root>
 <Main url="https://wanli88899.github.io/wl/Main.xml"/>
 <Update url="https://wanli88899.github.io/wl/Entry.xml"/>
-<Update url="http://entry.wliyule.com/Entry.xml"/>
+<Update url="http://entry.wliyule.com:38080/Entry.xml"/>
 </root>
